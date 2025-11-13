@@ -30,7 +30,6 @@ jobs:
 
   scorecards-check:
     name: Scorecards Quality Check
-    runs-on: ubuntu-latest
     uses: feddericovonwernich/scorecards/.github/workflows/install.yml@main
     secrets:
       github-token: ${{ secrets.GITHUB_TOKEN }}
