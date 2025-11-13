@@ -27,6 +27,10 @@ npm test
 
 Contributions welcome! Please submit a pull request.
 
+## Quality Monitoring
+
+This repository uses [Scorecards](https://github.com/feddericovonwernich/scorecards) for continuous quality monitoring.
+
 ## License
 
 MIT License - see LICENSE file for details.
